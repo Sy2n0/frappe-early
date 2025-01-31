@@ -2393,7 +2393,7 @@
 		GOLD: 0xffd700ff,
 		GOLDENROD: 0xdaa520ff,
 		GRAY: 0x808080ff,
-		GREEN: 0x008000ff,
+		GREEN: 0x0080ff,
 		GREENYELLOW: 0xadff2fff,
 		GREY: 0x808080ff,
 		HONEYDEW: 0xf0fff0ff,
@@ -2425,7 +2425,7 @@
 		LIMEGREEN: 0x32cd32ff,
 		LINEN: 0xfaf0e6ff,
 		MAGENTA: 0xff00ffff,
-		MAROON: 0x800000ff,
+		MAROON: 0x8000ff,
 		MEDIUMAQUAMARINE: 0x66cdaaff,
 		MEDIUMBLUE: 0x0000cdff,
 		MEDIUMORCHID: 0xba55d3ff,
@@ -2442,7 +2442,7 @@
 		NAVAJOWHITE: 0xffdeadff,
 		NAVY: 0x000080ff,
 		OLDLACE: 0xfdf5e6ff,
-		OLIVE: 0x808000ff,
+		OLIVE: 0x8080ff,
 		OLIVEDRAB: 0x6b8e23ff,
 		ORANGE: 0xffa500ff,
 		ORANGERED: 0xff4500ff,
@@ -2457,7 +2457,7 @@
 		PINK: 0xffc0cbff,
 		PLUM: 0xdda0ddff,
 		POWDERBLUE: 0xb0e0e6ff,
-		PURPLE: 0x800080ff,
+		PURPLE: 0x8080ff,
 		REBECCAPURPLE: 0x663399ff,
 		RED: 0xff0000ff,
 		ROSYBROWN: 0xbc8f8fff,
@@ -6170,7 +6170,7 @@
 	};
 	var ARMENIAN = {
 		integers: [
-			9000, 8000, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 900, 800, 700,
+			9000, 80, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 900, 800, 700,
 			600, 500, 400, 300, 200, 100, 90, 80, 70, 60, 50, 40, 30, 20, 10, 9,
 			8, 7, 6, 5, 4, 3, 2, 1,
 		],
@@ -6215,7 +6215,7 @@
 	};
 	var HEBREW = {
 		integers: [
-			10000, 9000, 8000, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 400,
+			10000, 9000, 80, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 400,
 			300, 200, 100, 90, 80, 70, 60, 50, 40, 30, 20, 19, 18, 17, 16, 15,
 			10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
 		],
@@ -6261,7 +6261,7 @@
 	};
 	var GEORGIAN = {
 		integers: [
-			10000, 9000, 8000, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 900,
+			10000, 9000, 80, 7000, 6000, 5000, 4000, 3000, 2000, 1000, 900,
 			800, 700, 600, 500, 400, 300, 200, 100, 90, 80, 70, 60, 50, 40, 30,
 			20, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1,
 		],

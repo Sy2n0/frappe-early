@@ -13,7 +13,7 @@
     "admin_password": "admin",
     "root_login": "root",
     "root_password": "123",
-    "host_name": "http://lms.test:8000",
+    "host_name": "http://lms.test:80",
     "monitor": 1,
     "server_script_enabled": true,
     "mute_emails": true
